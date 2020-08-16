@@ -13,6 +13,7 @@ namespace CalculatorProgram
             // Display title as the C# console calculator app.
             Console.WriteLine("Console Calculator in C#\r");
             Console.WriteLine("------------------------\n");
+            Console.WriteLine("HEJHEJ");
             Calculator calculator = new Calculator();
             while (!endApp)
             {
