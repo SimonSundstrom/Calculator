@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXCtd7nt0QMGN3NM3kLc8zaoe0QaCYQAxd0Qt+qKhtvpQ7lfKZOwDIOdj9ON5gKI+hbrUUdu1AD6t6SZ4est4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon\\Source\\Repos\\CalculatorGit\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JncDzR15BpbHadWM2NjDql19JphDhD4+bOI9cWST0lWeOPiyKJmERHFHpewafDm+q7kw6qaZDXG4gRZdKmpM1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon\\Source\\Repos\\CalculatorGit\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
